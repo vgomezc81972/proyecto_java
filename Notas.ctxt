@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Notas
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ CapturaNotas()
+comment3.params=
+comment3.target=void\ CalcularNotas()
+comment4.params=
+comment4.target=void\ MostrarNotas()
+comment5.params=
+comment5.target=void\ ListarNotas()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=menup
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Mostrar()
+comment3.params=msj
+comment3.target=void\ error(java.lang.String)
+comment4.params=val
+comment4.target=java.lang.String\ convertir(double)
+numComments=5
